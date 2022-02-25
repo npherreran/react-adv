@@ -1,0 +1,27 @@
+.bg-dark {
+  background-color: rgb(56, 56, 56);
+}
+
+.text-white {
+  color: white;
+}
+
+.custom-buttons button {
+  border-color: white;
+  color: white;
+}
+.custom-buttons p {
+  color: white;
+}
+
+.custom-buttons div {
+  border-color: white;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.custom-image {
+  background-color: rgb(67, 60, 60);
+}
